@@ -1,5 +1,5 @@
 # The Partisan Composition of Swiss Cantonal Governments (1850s-Present)
-This repository contains updated data on the partisan composition of Swiss cantonal governments from the mid 19th century until today. For more information, see the original paper published in the [Swiss Political Science Review](https://doi.org/10.1111/spsr.12329).
+This repository contains updated data on the partisan composition of Swiss cantonal governments from the mid-19th century until today. For more information, see the original paper published in the [Swiss Political Science Review](https://doi.org/10.1111/spsr.12329).
 
 ### The repository has two files:
   - Member_Data.xlsx: Names of government member and party/ideological affiliation
